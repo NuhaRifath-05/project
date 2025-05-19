@@ -60,6 +60,7 @@ Admin panel to deploy or update models and view analytics.
 Toggle features to enable/disable secure communication or sampling adjustments.
 
 ML Techniques Used:
+
 1️⃣Predictive Analytics: For energy load forecasting.
 
 2️⃣Regression Models: To predict consumption trends and optimize accordingly.
@@ -67,6 +68,7 @@ ML Techniques Used:
 3️⃣Optimization Algorithms: Reduce overall consumption while maintaining system performance.
 
 Model Training:
+
 1️⃣Data Sources: IoT sensor data, simulation datasets
 
 2️⃣Training Tools: scikit-learn, TensorFlow

@@ -1,9 +1,11 @@
 Energy Efficiency and Optimization
 
 Objective:
+
 To develop a smart, sustainable, and energy-efficient system leveraging Artificial Intelligence (AI) and the Internet of Things (IoT) to optimize energy consumption across multiple domains including buildings, industrial systems, and IoT networks.
 
 Features:
+
 1️⃣AI-Powered Optimization: Implements machine learning for load forecasting and energy-efficient task scheduling.
 
 2️⃣IoT Integration: Connects to real-world IoT devices for real-time energy monitoring and control.
@@ -17,6 +19,7 @@ Features:
 6️⃣Adaptive Transmission: Optimized data transmission methods for reduced power usage in IoT modules.
 
 Technology Used:
+
 🌀Languages: Python, C++
 
 🌀Frameworks & Libraries: TensorFlow, scikit-learn, NumPy, Pandas
